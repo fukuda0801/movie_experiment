@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "とっとこハム太郎",
+      "email": "hamster1@example.com",
+      "password": "hamster"
+    },
+    {
+      "id": 2,
+      "name": "とっとこハム次郎",
+      "email": "hamster2@example.com",
+      "password": "hamster"
+    },
+    {
+      "id": 3,
+      "name": "とっとこハム三郎",
+      "email": "hamster3@example.com",
+      "password": "hamster"
+    },
+    {
+      "id": 4,
+      "name": "ハム四郎",
+      "email": "hamster@ham",
+      "password": "hamster"
+    },
+    {
+      "id": 5,
+      "name": "ハム五郎",
+      "email": "hamster5j@hamster",
+      "password": "hamster"
+    }
+  ]
+}
